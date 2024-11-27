@@ -4,11 +4,11 @@ public class TiposVariaveis {
         // estudem a classe String que representa texto na aplicação
 
 
-        double  salarioMinimo = 2500;
+        // double  salarioMinimo = 2500;
 
-        short numeroCurto = 1; 
-        int numeroNormal = numeroCurto;
-        short numeroCurto2 = (short) numeroNormal;
+        // short numeroCurto = 1; 
+        // int numeroNormal = numeroCurto;
+        // short numeroCurto2 = (short) numeroNormal;
 
 
         int numero = 5;
@@ -17,7 +17,7 @@ public class TiposVariaveis {
 
         System.out.print(numero);
 
-        final  double Valor_De_Pi = 3.14;
+        // final  double valor_De_pi = 3.14;
 
 
     }
